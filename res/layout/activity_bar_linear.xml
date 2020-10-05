@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    android:paddingTop="35dip"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+    
+
+
+    <Button
+        android:id="@+id/button4"
+        android:onClick="goToWhiskey"
+        android:layout_width="300dip"
+        android:layout_height="45dip"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="58dip"
+        android:background="@drawable/bordered_button"
+        android:textStyle="bold"
+        android:text="@string/whiskey" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="300dip"
+        android:layout_height="45dip"
+        android:layout_weight="1"
+        android:layout_marginBottom="58dip"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToWineList"
+        android:text="@string/wine"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="300dip"
+        android:layout_height="45dip"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="58dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToBeerList"
+        android:text="@string/beer"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="300dip"
+        android:layout_height="45dip"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="58dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToCocktailList"
+        android:text="@string/cocktails"
+        android:textStyle="bold" />
+    
+    
+    <Button
+        android:id="@+id/button5"
+        android:onClick="goToLiquorList"
+        android:layout_width="300dip"
+        android:layout_height="45dip"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="58dip"
+        android:textStyle="bold"
+        android:background="@drawable/bordered_button"
+        android:text="@string/misc" />
+    
+</LinearLayout>

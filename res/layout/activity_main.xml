@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    tools:context=".MainActivity" >
+
+<!--     <Button -->
+<!--         android:id="@id/button1" -->
+<!--         android:layout_width="wrap_content" -->
+<!--         android:layout_height="wrap_content" -->
+<!--         android:layout_alignBaseline="@+id/button2" -->
+<!--         android:layout_alignBottom="@+id/button2" -->
+<!--         android:layout_alignParentLeft="true" -->
+<!--         android:layout_marginLeft="46sp" -->
+<!--         android:background="@color/yellow" -->
+<!--         android:onClick="goToFood" -->
+<!--         android:text="@string/eat" -->
+<!--         android:textStyle="bold" /> -->
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/pig_logo"
+        android:src="@drawable/comfort_pig" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="340sp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/comfort_logo"
+        android:src="@drawable/comfort_small" />
+
+    <android.gesture.GestureOverlayView
+        android:id="@+id/gOverlay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gestureColor="#00000000"
+        android:uncertainGestureColor="#00000000" >
+
+    </android.gesture.GestureOverlayView>
+
+    <Button
+        android:id="@id/button2"
+        android:layout_width="100dip"
+        android:layout_height="50dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToBar"
+        android:text="@string/drink"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

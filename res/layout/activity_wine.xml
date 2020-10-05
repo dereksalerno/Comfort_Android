@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".WineActivity" >
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="69dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToWhiteGlass"
+        android:text="@string/wine_white_glass"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="58dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToRedGlass"
+        android:text="@string/wine_red_glass"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="83dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToRedBottle"
+        android:text="@string/wine_red_bottle"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_above="@+id/button4"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_marginBottom="58dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToWhiteBottle"
+        android:text="@string/wine_white_bottle"
+        android:textStyle="bold" />
+    
+</RelativeLayout>

@@ -1,0 +1,2566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bar>
+  <liquors>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Son of a Beesting</distiller>
+    <bottling>Gin, Lemon, Honey, Ginger, Orange-Blossom Water</bottling>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Tequila Honeysuckle</distiller>
+    <bottling>Tequila, Honey, Lime</bottling>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Gin Sour</distiller>
+    <bottling>Gin, Lemon, Sugar, Egg White</bottling>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Monte Carlo</distiller>
+    <bottling>Rye, Benedictine, Angostura</bottling>
+    <price>9</price>
+  </liquor>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Rum Buck</distiller>
+    <bottling>Spiced Rum, Lime, Ginger</bottling>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Scofflaw</distiller>
+    <bottling>Rye, Dry Vermouth, House Grenadine, Lemon, Orange Bitters</bottling>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Boulevardier</distiller>
+    <bottling>Bourbon, Campari, Sweet Vermouth</bottling>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>cocktial</type>
+    <distiller>Comfort Cup</distiller>
+    <bottling>White Rum, Lime, Sugar, Cucumber, Housemade Hot Sauce, Worcestershire</bottling>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>cocktail</type>
+    <distiller>Grandfather</distiller>
+    <bottling>Irish Whiskey, Applejack, Sweet Vermouth, Angostura and Peychaud's Bitters</bottling>
+    <price>11</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous</type>
+      <distiller>Cynar</distiller>
+      <bottling>Amaro</bottling>
+      <place>Italy</place>
+      <proof>33</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous</type>
+      <distiller>Chartreuse</distiller>
+      <bottling>Green</bottling>
+      <proof>110</proof>
+      <place>Voiron, France</place>
+      <price>10</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous</type>
+      <distiller>Chartreuse</distiller>
+      <bottling>Yellow</bottling>
+      <proof>80</proof>
+      <place>Voiron, France</place>
+      <price>9</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous</type>
+      <distiller>Aperol</distiller>
+      <bottling>Amaro</bottling>
+      <proof>22</proof>
+      <place>Padua, Italy</place>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous</type>
+      <distiller>Campari</distiller>
+      <bottling>Amaro</bottling>
+      <place>Italy</place>
+      <proof>42</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Ancient Age</distiller>
+  	<place>Frankfort, KY</place>
+  	<proof>80</proof>
+  	<price>6</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Angel's Envy</distiller>
+  	<bottling>Port Barrel Finish</bottling>
+ 	<age>4-6 Year</age>
+  	<place>Bardstown, KY</place>
+  	<proof>86.6</proof>
+  	<price>14</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Baker's</distiller>
+  	<place>Clermont, KY</place>
+  	<age>7 Year</age>
+  	<proof>107</proof>
+  	<price>11</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Basil Hayden's</distiller>
+  	<place>Clermont, KY</place>
+  	<age>7 Year</age>
+  	<proof>80</proof>
+  	<price>11</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Benchmark</distiller>
+  	<place>Frankfort, KY</place>
+  	<age>4 Year</age>
+  	<proof>80</proof>
+  	<price>6</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Black Maple Hill</distiller>
+  	<bottling>Small Batch</bottling>
+  	<place>Bardstown, KY</place>
+  	<age>8 Year</age>
+  	<proof>90</proof>
+  	<price>16</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Blanton's</distiller>
+  	<bottling>Single Barrel</bottling>
+  	<place>Frankfort, KY</place>
+  	<proof>93</proof>
+  	<price>13</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Booker's</distiller>
+  	<bottling>Unfiltered and Uncut</bottling>
+  	<place>Clermont, KY</place>
+  	<age>6-8 Year</age>
+  	<proof>121-127</proof>
+  	<price>14</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Bowman Brothers</distiller>
+  	<bottling>Small Batch</bottling>
+  	<place>Fredericksburg, VA</place>
+  	<age>4 Year</age>
+  	<proof>90</proof>
+  	<price>17</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Buffalo Trace</distiller>
+  	<place>Frankfurt, KY</place>
+  	<age>4 Year</age>
+  	<proof>90</proof>
+  	<price>7</price>
+  </liquor>  
+    <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Bulleit</distiller>
+  	<bottling>Frontier Whisky</bottling>
+  	<place>Lawrenceburg, KY</place>
+  	<proof>90</proof>
+  	<price>8</price>
+  </liquor>
+    <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Colonel E.H. Jr.</distiller>
+  	<bottling>Single Barrel, Bottled in Bond</bottling>
+  	<place>Frankfurt, KY</place>
+  	<age>11 Year, 7 Months</age>
+  	<proof>100</proof>
+  	<price>16</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Corner Creek</distiller>
+  	<bottling>Reserve</bottling>
+  	<place>Bardstown, Ky</place>
+  	<age>8 Year</age>
+  	<proof>88</proof>
+  	<price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Eagle Rare</distiller>
+  	<bottling>Single Barrel</bottling>
+  	<place>Frankfurt, KY</place>
+  	<age>10 Year</age>
+  	<proof>90</proof>
+  	<price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Eagle Rare</distiller>
+  	<place>Frankfurt, KY</place>
+  	<age>17 Year</age>
+  	<proof>90</proof>
+  	<price>20</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Early Times</distiller>
+  	<place>Shively, KY</place>
+  	<age>4 Year</age>
+  	<proof>80</proof>
+  	<price>6</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+  	<distiller>Elijah Craig</distiller>
+  	<bottling>Small Batch</bottling>
+  	<place>Frankfurt, KY</place>
+  	<age>12 Year</age>
+  	<proof>90</proof>
+  	<price>9</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Elmer T. Lee</distiller>
+    <place>Frankfort, KY</place>
+    <price>7</price>
+    <photo>elmer.png</photo>
+    <proof>90</proof>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Evan Williams</distiller>
+    <place>Bardstown, KY</place>
+    <price>6</price>
+    <proof>86</proof>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Evan Williams</distiller>
+    <bottling>1786</bottling>
+    <place>Bardstown, KY</place>
+    <price>6</price>
+    <proof>86</proof>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Evan Williams</distiller>
+    <bottling>Single Barrel</bottling>
+    <age>8 Year</age>
+    <place>Bardstown, KY</place>
+    <price>7</price>
+    <proof>86.6</proof>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Ezra B</distiller>
+    <bottling>Single Barrel</bottling>
+    <place>St Louis, MO</place>
+    <price>12</price>
+    <proof>99</proof>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Fighting Cock</distiller>
+    <place>Bardstown, KY</place>
+    <age>6 Year</age>
+    <proof>103</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Four Roses</distiller>
+    <place>Lawrenceburg, KY</place>
+    <age>4 Year</age>
+    <proof>90</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Four Roses</distiller>
+    <bottling>Small Batch</bottling>
+    <place>Lawrenceburg, KY</place>
+    <age>6 Year</age>
+    <proof>103</proof>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Four Roses</distiller>
+    <bottling>Single Barrel</bottling>
+    <place>Lawrenceburg, KY</place>
+    <proof>103</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Hancock's</distiller>  
+    <bottling>President's Reserve Single Barrel</bottling>
+    <place>Frankfort, KY</place>
+    <proof>88.9</proof>
+    <price>14</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Henry McKenna</distiller>
+    <place>Bardstown, KY</place>
+    <proof>80</proof>
+    <price>6</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Henry McKenna</distiller>
+    <bottling>Single Barrel</bottling>
+    <place>Bardstown, KY</place>
+    <proof>100</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Jefferson's</distiller>
+    <place>Bardstown, KY</place>
+    <proof>82.3</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Jefferson's</distiller>
+    <bottling>Reserve</bottling>
+    <age>15 Year</age>
+    <place>Bardstown, KY</place>
+    <proof>90.2</proof>
+    <price>13</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Jim Beam</distiller>
+    <place>Bardstown, KY</place>
+    <proof>80</proof>
+    <price>6</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Jim Beam</distiller>
+    <bottling>Devil's Cut</bottling>
+    <place>Bardstown</place>
+    <proof>90</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Jim Beam</distiller>
+    <bottling>Black</bottling>
+    <place>Bardstown, KY</place>
+    <age>8 Year</age>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>John L Bowman</distiller>
+    <bottling>Single Barrel</bottling>
+    <place>Frericksburg, VA</place>
+    <proof>100</proof>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Kentucky Vintage</distiller>
+    <bottling>Small Batch</bottling>
+    <place>Bardstown, KY</place>
+    <proof>90</proof>
+    <age>8 Year</age>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Knob Creek</distiller>
+    <place>Clermont, KY</place>
+    <age>9 Year</age>
+    <proof>100</proof>
+    <price>9</price>
+  </liquor>
+    <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Knob Creek</distiller>
+    <bottling>Single Barrel</bottling>
+    <place>Clermont, KY</place>
+    <age>9 Year</age>
+    <proof>120</proof>
+    <price>11</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Larceny</distiller>
+    <bottling>Small Batch</bottling>
+    <place>Bardstown, KY</place>
+    <price>6</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Maker's Mark</distiller>
+    <place>Loretto, KY</place>
+    <proof>90</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Maker's Mark</distiller>
+    <bottling>"Maker's 46"</bottling>
+    <place>Loretto, KY</place>
+    <proof>94</proof>
+    <price>9</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Noah's Mill</distiller>
+    <bottling>Small Batch</bottling>
+    <place>Bardstown, KY</place>
+    <age>15 Year</age>
+    <proof>114.3</proof>
+    <price>14</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Ezra</distiller>
+    <place>St. Louis, MO</place>
+    <age>7 Year</age>
+    <proof>101</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Fitzgerald</distiller>
+    <bottling>Original Sour Mash</bottling>
+    <place>Louisville, KY</place>
+    <proof>86</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Fitzgerald</distiller>
+    <bottling>Very Special</bottling>
+    <place>Louisville, KY</place>
+    <age>12 Year</age>
+    <proof>90</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Fitzgerald</distiller>
+    <bottling>1849</bottling>
+    <place>Louisville, KY</place>
+    <age>8 Year</age>
+    <proof>90</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Forester</distiller>
+    <place>Louisville, KY</place>
+    <proof>86</proof>
+    <price>6</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Forester</distiller>
+    <bottling>Signature</bottling>
+    <place>Louisville, KY</place>
+    <proof>100</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Forester</distiller>
+    <bottling>2011 Birthday Bourbon</bottling>
+    <place>Louisville, KY</place>
+    <age>12 Year</age>
+    <price>17</price>
+    <proof>98</proof>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Grand Dad</distiller>
+    <place>Clermont, KY</place>
+    <proof>114</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Heaven Hill</distiller>
+    <place>Bardstown, KY</place>
+    <age>4 Year</age>
+    <proof>100</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Old Weller</distiller>
+    <bottling>Antique 107</bottling>
+    <place>Frankfort, KY</place>
+    <age>7 Year</age>
+    <proof>107</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Parker's Heritage</distiller>
+    <bottling>Cognac Barrel Finished</bottling>
+    <place>Bardstown, KY</place>
+    <age>10 Year</age>
+    <proof>100</proof>
+    <price>20</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Pure Kentucky</distiller>
+    <bottling>XO Small Batch</bottling>
+    <place>Bardstown, KY</place>
+    <proof>107</proof>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Rebel Reserve</distiller>
+    <place>Louisville, KY</place>
+    <age>2 Year</age>
+    <proof>90.6</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Rebel Yell</distiller>
+    <place>Louisville, KY</place>
+    <age>4 Year</age>
+    <proof>80</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Straight Bourbon</type>
+      <distiller>Reservoir</distiller>
+      <bottling>Bourbon</bottling>
+      <place>Richmond, VA</place>
+      <proof>100</proof>
+      <price>15</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Ridgemont 1792</distiller>
+    <bottling>Small Batch</bottling>
+    <place>Bardstown, KY</place>
+    <age>8 Year</age>
+    <proof>93.7</proof>
+    <price>8</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Rock Hill Farms</distiller>
+    <bottling>Single Barrel</bottling>
+    <place>Frankfort, KY</place>
+    <proof>100</proof>
+    <price>14</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Rowan's Creek</distiller>
+    <bottling>Small Batch</bottling>
+    <place>Bardstown, KY</place>
+    <age>12 Year</age>
+    <proof>100</proof>
+    <price>11</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Smooth Ambler</distiller>
+    <bottling>'Old Scout'</bottling>
+    <place>Maxwelton, WV</place>
+    <age>6 Year</age>
+    <proof>99</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Van Winkle</distiller>
+    <bottling>'Lot B' Special Reserve</bottling>
+    <place>Lawrenceburg, KY</place>
+    <age>12 Year</age>
+    <proof>90.4</proof>
+    <price>17</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Van Winkle</distiller>
+    <bottling>'Pappy's Family Reserve'</bottling>
+    <place>Lawrenceburg, KY</place>
+    <age>20 Year</age>
+    <proof>90.4</proof>
+    <price>30</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Very Old Barton</distiller>
+    <bottling>Bottled-In-Bond</bottling>
+    <place>Bardstown, KY</place>
+    <age>6 Year</age>
+    <proof>100</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Wathen's</distiller>
+    <bottling>Single Barrel</bottling>
+    <place>Owensboro, KY</place>
+    <proof>94</proof>
+    <price>12</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Wild Turkey</distiller>
+    <bottling>101</bottling>
+    <place>Lawrenceburg, KY</place>
+    <proof>101</proof>
+    <price>7</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Wild Turkey</distiller>
+    <bottling>'Kentucky Spirit' Single Barrel</bottling>
+    <place>Lawrenceburg, KY</place>
+    <proof>101</proof>
+    <price>12</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Wild Turkey</distiller>
+    <bottling>'Rare Breed' Small Batch</bottling>
+    <place>Lawrenceburg, KY</place>
+    <age>8 Year</age>
+    <proof>108</proof>
+    <price>10</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Wild Turkey</distiller>
+    <bottling>Russel's reserve</bottling>
+    <place>Lawrenceburg, KY</place>
+    <age>10 Year</age>
+    <proof>90</proof>
+    <price>9</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Wild Turkey</distiller>
+    <bottling>Master Distiller's Selection</bottling>
+    <place>Lawrenceburg, KY</place>
+    <age>14 Year</age>
+    <proof>101</proof>
+    <price>30</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>William Larue Weller</distiller>
+    <place>Frankfort, KY</place>
+    <proof>133.5</proof>
+    <price>20</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Woodford Reserve</distiller>
+    <bottling>Distiller's Select</bottling>
+    <place>Versailles, KY</place>
+    <proof>90.4</proof>
+    <price>9</price>
+  </liquor>
+  <liquor>
+    <type>Straight Bourbon</type>
+    <distiller>Woodford Reserve</distiller>
+    <bottling>Double Oaked</bottling>
+    <place>Versailles, KY</place>
+    <proof>90.4</proof>
+    <price>10</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Abraham Bowman</distiller>
+      <place>Fredericksburg, VA</place>
+      <proof>90</proof>
+      <age>12 Year</age>
+      <price>15</price>
+  </liquor>
+    <liquor>
+      <type>American Rye</type>
+      <distiller>Bulleit</distiller>
+      <bottling>Rye</bottling>
+      <place>Lawrenceburg, KY</place>
+      <proof>90</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Catoctin Creek</distiller>
+      <bottling>Roundstone Rye (Organic)</bottling>
+      <place>Purcellville, VA</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>High West</distiller>
+      <bottling>Double Rye</bottling>
+      <place>Park City, UT</place>
+      <age>Blend of 2 and 16 Year Rye</age>
+      <proof>92</proof>
+      <price>10</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Jefferson's</distiller>
+      <place>Bardstown, KY</place>
+      <proof>94</proof>
+      <age>10 Year</age>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Old Overholt</distiller>
+      <place>Clermont, KY</place>
+      <proof>80</proof>
+      <age>4 Year</age>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Old Portrero</distiller>
+      <bottling>18th-Century Rye</bottling>
+      <place>San Francisco, CA</place>
+      <proof>125.1</proof>
+      <price>16</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Knob Creek</distiller>
+      <place>Clermont, KY</place>
+      <proof>100</proof>
+      <price>10</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Reservoir</distiller>
+      <bottling>Rye Whiskey</bottling>
+      <place>Richmond, VA</place>
+      <proof>100</proof>
+      <price>15</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Rittenhouse</distiller>
+      <bottling>Bottled-in-bond</bottling>
+      <place>Bardstown, KY</place>
+      <proof>100</proof>
+      <age>4 Year</age>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Rittenhouse</distiller>
+      <bottling>Single Barrel</bottling>
+      <place>Bardstown, KY</place>
+      <proof>100</proof>
+      <age>21 Year</age>
+      <price>46</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>(ri)1</distiller>
+      <place>Bardstown, KY</place>
+      <proof>92</proof>
+      <price>10</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Sazerac</distiller>
+      <place>Frankfort, KY</place>
+      <proof>90</proof>
+      <age>6 Year</age>
+      <price>10</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Sazerac</distiller>
+      <place>Frankfort, KY</place>
+      <proof>90</proof>
+      <age>18 Year</age>
+      <price>20</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Thomas H. Handy</distiller>
+      <bottling>Sazerac, Barrel-Proof</bottling>
+      <place>Frankfort</place>
+      <proof>129</proof>
+      <price>18</price>
+  </liquor>
+    <liquor>
+      <type>American Rye</type>
+      <distiller>Wasmund's</distiller>
+      <bottling>Copper Fox Rye</bottling>
+      <place>Sperryville, VA</place>
+      <proof>90</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Whistle Pig</distiller>
+      <place>Shoreham, VT</place>
+      <proof>100</proof>
+      <age>10 Year</age>
+      <price>14</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Wild Turkey</distiller>
+      <place>Lawrenceburg, KY</place>
+      <proof>81</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Wild Turkey</distiller>
+      <bottling>Russel's Reserve Rye</bottling>
+      <place>Lawrenceburg, KY</place>
+      <proof>90</proof>
+      <age>6 Year</age>
+      <price>9</price>
+  </liquor>
+  <liquor>    
+      <type>American Rye</type>
+      <distiller>Woodford Reserve</distiller>
+      <bottling>Master's Collection Aged Oak Rye</bottling>
+      <place>Versailles, KY</place>
+      <proof>92.4</proof>
+      <price>26</price>
+  </liquor>
+  <liquor>
+      <type>American Rye</type>
+      <distiller>Woodford Reserve</distiller>
+      <bottling>Master's Collection New Oak Rye</bottling>
+      <place>Versailles, KY</place>
+      <proof>92.4</proof>
+      <price>26</price>
+  </liquor>
+  <liquor>
+      <type>Wheat Whiskey</type>
+      <distiller>Bernheim</distiller>
+      <bottling>Small Batch</bottling>
+      <place>Bardstown, KY</place>
+      <proof>90</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Wheat Whiskey</type>
+      <distiller>Dry Fly</distiller>
+      <bottling>Washington Wheat</bottling>
+      <place>Spakane, WA</place>
+      <age>2 Year</age>
+      <proof>80</proof>
+      <price>14</price>
+  </liquor>
+  <liquor>
+      <type>Wheat Whiskey</type>
+      <distiller>Reservoir</distiller>
+      <bottling>Wheat Whiskey</bottling>
+      <place>Richmond, VA</place>
+      <proof>100</proof>
+      <price>15</price>
+  </liquor>
+    <liquor>
+      <type>Tennessee Whiskey</type>
+      <distiller>George Dickel</distiller>
+      <bottling>No. 12</bottling>
+      <place>Tullahoma, TN</place>
+      <proof>90</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Tennessee Whiskey</type>
+      <distiller>George Dickel</distiller>
+      <bottling>Cascade Hollow</bottling>
+      <place>Tullahoma, TN</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Tennessee Whiskey</type>
+      <distiller>Jack Daniel's</distiller>
+      <bottling>No. 7</bottling>
+      <place>Lynchburg, TN</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Tennessee Whiskey</type>
+      <distiller>Jack Daniel's</distiller>
+      <bottling>Gentleman Jack Rare</bottling>
+      <place>Lynchburg, TN</place>
+      <proof>80</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Tennessee Whiskey</type>
+      <distiller>Jack Daniel's</distiller>
+      <bottling>Single Barrel</bottling>
+      <place>Lynchburg, TN</place>
+      <proof>94</proof>
+      <price>11</price>
+  </liquor>  
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>Catdaddy</distiller>
+      <bottling>Carolina Moonshine</bottling>
+      <place>Madison, NC</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>  
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>Catoctin Creek</distiller>
+      <bottling>Mosby's Spirit Rye</bottling>
+      <place>Purcelleville, VA</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>  
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>Georgia Moon</distiller>
+      <bottling>Corn Whiskey</bottling>
+      <place>Bardstown, KY</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>Heaven Hill</distiller>
+      <bottling>Trybox Series - New Make</bottling>
+      <place>Bardstown, KY</place>
+      <proof>125</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>High West</distiller>
+      <bottling>Silver Whiskey - Western Oat</bottling>
+      <place>Park City, UT</place>
+      <proof>80</proof>
+      <price>10</price>
+  </liquor>
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>Midnight Moon</distiller>
+      <bottling>Grain Neutral Spirit</bottling>
+      <place>Madison, NC</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>Smooth Ambler</distiller>
+      <place>Maxwelton, WV</place>
+      <proof>100</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>White Whiskey</type>
+      <distiller>Virginia Lightning</distiller>
+      <bottling>Corn Whiskey</bottling>
+      <place>Culpeper, VA</place>
+      <proof>100</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Benjamin Pritchard's</distiller>
+      <bottling>Double Barreled Bourbon</bottling>
+      <place>Kelso, Tennesse</place>
+      <proof>90</proof>
+      <price>14</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Clear Creek "McCarthey's"</distiller>
+      <bottling>Oregon Single Malt</bottling>
+      <place>Portland, OR</place>
+      <age>3 Year</age>
+      <proof>85</proof>
+      <price>12</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Early Times</distiller>
+      <bottling>Blended Bourbon</bottling>
+      <place>Louisville, KY</place>
+      <age>3 Year Minimum</age>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Hirsch</distiller>
+      <bottling>American Whiskey</bottling>
+      <place>Illinois</place>
+      <age>20 Year</age>
+      <proof>96</proof>
+      <price>23</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Kentucky Gentleman</distiller>
+      <bottling>Blended Bourbon</bottling>
+      <place>Bardstown, KY</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Kopper Kettle</distiller>
+      <bottling>Virginia Whiskey</bottling>
+      <place>Culpeper, VA</place>
+      <age>2 Year</age>
+      <proof>86</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Mellow Corn</distiller>
+      <bottling>Bottled-In-Bond</bottling>
+      <place>Louisville, KY</place>
+      <age>4 Year</age>
+      <proof>100</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Sam Houston</distiller>
+      <bottling>Straight American Whiskey</bottling>
+      <place>Wilson, WY</place>
+      <proof>86</proof>
+      <price>12</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Seagram's</distiller>
+      <bottling>7</bottling>
+      <place>USA</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Miscellaneous American</type>
+      <distiller>Wasmund's</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Sperryville, VA</place>
+      <proof>96</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Canadian Whisky</type>    
+      <distiller>Black Velvet</distiller>
+      <age>8 Year</age>
+      <place>Canada</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Canadian Whisky</type>    
+      <distiller>Canadian Club</distiller>
+      <age>6 Year</age>
+      <place>Canada</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Canadian Whisky</type>    
+      <distiller>Canadian Club</distiller>
+      <bottling>10 Year</bottling>
+      <age>10 Year</age>
+      <place>Canada</place>
+      <proof>80</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Canadian Whisky</type>    
+      <distiller>Crown Royal</distiller>
+      <place>Canada</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Canadian Whisky</type>    
+      <distiller>Crown Royal</distiller>
+      <bottling>Cask No. 16</bottling>
+      <place>Canada</place>
+      <proof>80</proof>
+      <price>14</price>
+  </liquor>
+  <liquor>
+      <type>Canadian Whisky</type>    
+      <distiller>Seagram's</distiller>
+      <bottling>VO</bottling>
+      <place>Canada</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Bushmills</distiller>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Clontarf</distiller>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Connemara</distiller>
+      <bottling>Peated Single Malt</bottling>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Greenore</distiller>
+      <bottling>Small Batch Single Grain</bottling>
+      <place>Ireland</place>
+      <age>8 Year</age>
+      <proof>80</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Jameson</distiller>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>John L. Sullivan</distiller>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Knappogue</distiller>
+      <bottling>1995 Very Special Reserve Single Malt</bottling>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Michael Collins</distiller>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Middleton</distiller>
+      <bottling>Very Rare Blend</bottling>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>40</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Paddy</distiller>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Powers</distiller>
+      <bottling>Gold Label</bottling>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Redbreast</distiller>
+      <bottling>Single Pot Still</bottling>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>12</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Slane Castle</distiller>
+      <bottling>Premium Blend</bottling>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Tullamore Dew</distiller>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>6</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Tullamore Dew</distiller>
+      <bottling>Special Reserve</bottling>
+      <place>Ireland</place>
+      <age>12 Year</age>
+      <proof>80</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Irish Whiskey</type>
+      <distiller>Tyrconnel</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Ireland</place>
+      <proof>80</proof>
+      <price>8</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Dewar's</distiller>
+      <bottling>White Label</bottling>
+      <place>Scotland</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Johnnie Walker</distiller>
+      <bottling>Black Label</bottling>
+      <place>Scotland></place>
+      <proof>80</proof>
+      <price>9</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Famous Grouse</distiller>
+      <place>Scotland</place>
+      <proof>80</proof>
+      <price>7</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Balvenie</distiller>
+      <bottling>Carribean Cask Single Malt</bottling>
+      <place>Speyside</place>
+      <age>14 Year</age>
+      <proof>86</proof>
+      <price>15</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Dalwhinnie</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Highland</place>
+      <age>15 Year</age>
+      <proof>86</proof>
+      <price>15</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Glenmorangie</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Hignland</place>
+      <age>10 Year</age>
+      <proof>86</proof>
+      <price>13</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Glenlivet</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Highland</place>
+      <age>12 Year</age>
+      <proof>80</proof>
+      <price>10</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Macallan</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Highland</place>
+      <age>12 Year</age>
+      <proof>86</proof>
+      <price>13</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Oban</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Highland</place>
+      <age>14 Year</age>
+      <proof>86</proof>
+      <price>16</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Talisker</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Isle of Skye</place>
+      <age>10 Year</age>
+      <proof>91.6</proof>
+      <price>15</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Laphroaig</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Islay</place>
+      <age>10 Year</age>
+      <proof>86</proof>
+      <price>12</price>
+  </liquor>
+  <liquor>
+      <type>Scotch Whisky</type>
+      <distiller>Ardbeg</distiller>
+      <bottling>Single Malt</bottling>
+      <place>Islay</place>
+      <age>10 Year</age>
+      <proof>92</proof>
+      <price>12</price>
+  </liquor>
+  <liquor>
+      <type>Other Whiskey</type>
+      <distiller>Suntory</distiller>
+      <bottling>Yamazaki</bottling>
+      <place>Shimamoto, Osaka Prefecture, Japan</place>
+      <age>12 Year</age>
+      <proof>86</proof>
+      <price>11</price>
+  </liquor>
+<!--   <liquor> -->
+<!--       <type>Dummy Liquor</type> -->
+<!--       <distiller>Nobody</distiller> -->
+<!--       <bottling>This is a ghetto fix</bottling> -->
+<!--       <age>Hopefully it works</age> -->
+<!--       <proof>80</proof> -->
+<!--       <price>1</price> -->
+<!--   </liquor> -->
+      </liquors>
+  <beers>
+  <beer>
+      <type>Draft</type>
+      <brewery>Hardywood Park Craft Brewery</brewery>
+      <bottling>Sidamo Coffee Stout</bottling>
+      <place>Richmond, VA</place>
+      <price>10</price>
+  </beer>
+  <beer>
+      <type>Draft</type>
+      <brewery>Blue Mountain Brewery</brewery>
+      <bottling>Evan Altmighty Altbier</bottling>
+      <place>Afton, VA</place>
+      <price>7</price>
+  </beer>
+  <beer>
+      <type>Draft</type>
+      <brewery>Blue Mountain Brewery</brewery>
+      <bottling>Dark Hollow Imperial Stout</bottling>
+      <place>Afton, VA</place>
+      <price>8</price>
+  </beer>
+  <beer>
+      <type>Draft</type>
+      <brewery>Legend</brewery>
+      <bottling>Brown Ale</bottling>
+      <place>Richmond, VA</place>
+      <price>6</price>
+  </beer>
+  <beer>
+      <type>Draft</type>
+      <brewery>St. George</brewery>
+      <bottling>Winter Scotch Ale</bottling>
+      <place>Hampton, VA</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>Draft</type>
+      <brewery>Devil's Backbone</brewery>
+      <bottling>8-point IPA</bottling>
+      <place>Lexington, VA</place>
+  </beer>
+  <beer>
+      <type>Domestic</type>
+      <brewery>Odoul's</brewery>
+      <bottling>Non-Alcoholic</bottling>
+      <place>St Louis, MO</place>
+      <price>3</price>    
+  </beer>
+  <beer>
+      <type>Domestic</type>
+      <brewery>Miller</brewery>
+      <bottling>Lite</bottling>
+      <place>Milwaukee, WI</place>
+      <price>3</price>
+  </beer>
+  <beer>
+      <type>Domestic</type>
+      <brewery>Bud</brewery>
+      <bottling>Light</bottling>
+      <place>St. Louis, MO</place>
+      <price>3</price>
+  </beer>
+  <beer>
+      <type>Domestic</type>
+      <brewery>Budweiser</brewery>
+      <place>St. Louis, MO</place>
+      <price>3</price>
+  </beer>
+  <beer>
+      <type>Domestic</type>
+      <brewery>Pabst</brewery>
+      <bottling>Blue Ribbon 22oz Can</bottling>
+      <place>Milwaukee, WI</place>
+      <price>2.5</price>
+  </beer>
+  <beer>
+      <type>Domestic</type>
+      <brewery>Schlitz</brewery>
+      <bottling>Classic 1960s Formula</bottling>
+      <place>Milwaukee, WI</place>
+      <price>2.5</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Heineken</brewery>
+      <place>Holland</place>
+      <price>4</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Modelo</brewery>
+      <bottling>Especial can</bottling>
+      <place>Mexico</place>
+      <price>3.75</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Guinness</brewery>
+      <bottling>Stout Pub Can</bottling>
+      <place>Dublin, Ireland</place>
+      <price>6</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Stella Artois</brewery>
+      <place>Leuven, Belgium</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Wittekerke</brewery>
+      <bottling>Beligian Witbier</bottling>
+      <place>Belgium</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Corsendonk</brewery>
+      <bottling>'Pater' Abbey Brown Ale (Dubbel)</bottling>
+      <place>Belgium</place>
+      <price>8</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Schneider</brewery>
+      <bottling>Weisse 500ml</bottling>
+      <place>Germany</place>
+      <price>7</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Dieu Du Ciel</brewery>
+      <bottling>Route des Éspices rye/peppercorn ale</bottling>
+      <place>Canada</place>
+      <price>7</price>
+  </beer>
+  <beer>
+      <type>Import</type>
+      <brewery>Crispin</brewery>
+      <bottling>Brown's Lane Dry Cider Pub Can 16.9oz</bottling>
+      <place>England</place>
+      <price>7.5</price>
+  </beer>
+<!--   <beer> -->
+<!--       <type>American Microbrew</type> -->
+<!--       <brewery>Starr Hill</brewery> -->
+<!--       <bottling>Northern Lights IPA</bottling> -->
+<!--       <place>Charlottesville, VA</place> -->
+<!--       <price>5</price> -->
+<!--   </beer> -->
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>St. George</brewery>
+      <bottling>Porter</bottling>
+      <place>Hampton, VA</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Flying Dog</brewery>
+      <bottling>Pearl Necklace Oyster Stout</bottling>
+      <place>Frederick, MD</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Weyerbacher</brewery>
+      <bottling>Double Simcoe IPA</bottling>
+      <place>Pennsylvania</place>
+      <price>7</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>New Belgium</brewery>
+      <bottling>La Folie Sour Brown Ale 750ml</bottling>
+      <place>Fort Collins, Colorado</place>
+      <price>20</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Brooklyn</brewery>
+      <bottling>Pennant Ale</bottling>
+      <place>Brooklyn, New York</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Brooklyn</brewery>
+      <bottling>Black Chocolate Stout</bottling>
+      <place>Brooklyn, New York</place>
+      <price>7</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Ommegang</brewery>
+      <bottling>Hennepin Saison</bottling>
+      <place>Cooperstown, New York</place>
+      <price>8</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Bell's</brewery>
+      <bottling>Two Hearted Ale (IPA)</bottling>
+      <place>Kalamazoo, MI</place>
+      <price>6</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Bell's</brewery>
+      <bottling>Amber Ale</bottling>
+      <place>Kalamazoo, MI</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Founder's</brewery>
+      <bottling>Double Trouble Double IPA</bottling>
+      <place>Grand Rapids, MI</place>
+      <price>6</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Avery</brewery>
+      <bottling>Joe's American Pils can</bottling>
+      <place>Boulder, CO</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Avery</brewery>
+      <bottling>White Rascal White Ale</bottling>
+      <place>Boulder, CO</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Ace</brewery>
+      <bottling>Pear Cider</bottling>
+      <place>California</place>
+      <price>6</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Stone</brewery>
+      <bottling>Pale Ale</bottling>
+      <place>Escondido, CA</place>
+      <price>6</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Stone</brewery>
+      <bottling>IPA</bottling>
+      <place>Escondido, CA</place>
+      <price>6</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Sierra Nevada</brewery>
+      <bottling>Pale Ale</bottling>
+      <place>Chico, CA</place>
+      <price>4</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Green Flash</brewery>
+      <bottling>Hop Head Red</bottling>
+      <place>San Diego, CA</place>
+      <price>7</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>North Coast Brewing Co.</brewery>
+      <bottling>Old Rasputin Russian Imperial Stout</bottling>
+      <place>Fort Bragg, CA</place>
+      <price>7</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Lagunitas</brewery>
+      <bottling>Daytime Fractional IPA</bottling>
+      <place>Petaluma, CA</place>
+      <price>5</price>
+  </beer>
+  <beer>
+      <type>American Microbrew</type>
+      <brewery>Bear Republic</brewery>
+      <bottling>Racer 5 IPA</bottling>
+      <place>Sonoma, CA</place>
+      <price>6</price>
+  </beer>
+  </beers>
+  <wines>
+  <wine>
+      <color>white</color>
+      <category>btg</category>
+      <country>Spain</country>
+      <winery>Perelada</winery>
+      <region>Cava</region>
+      <vintage>NV</vintage>
+      <varietals>Macabeu, Parellada (Sparkling)</varietals>
+      <world>Old</world>
+      <price>7</price>
+  </wine>
+  
+  <wine>
+      <color>white</color>    
+      <category>btg</category>
+      <country>USA</country>
+      <winery>Chateau Julien</winery>
+      <bottling>'Emerald Bay'</bottling>
+      <varietals>Chardonnay</varietals>
+      <world>New</world>
+      <vintage>2010</vintage>
+      <region>Central Coast, CA</region>
+      <price>7</price>
+  </wine>
+    <wine>
+      <color>white</color>    
+      <category>bottle</category>
+      <country>USA</country>
+      <winery>Chateau Julien</winery>
+      <bottling>'Emerald Bay'</bottling>
+      <varietals>Chardonnay</varietals>
+      <world>New</world>
+      <vintage>2010</vintage>
+      <region>Central Coast, CA</region>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <country>Spain</country>
+      <winery>Perelada</winery>
+      <region>Cava</region>
+      <vintage>NV</vintage>
+      <varietals>Macabeu, Parellada (Sparkling)</varietals>
+      <world>Old</world>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>btg</category>
+      <country>France</country>
+      <winery>Maison Foucher</winery>
+      <varietals>Chenin Blanc</varietals>
+      <region>Vouvray</region>
+      <vintage>2010</vintage>
+      <world>Old</world>
+      <price>8</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <country>France</country>
+      <varietals>Chenin Blanc</varietals>
+      <winery>Maison Foucher</winery>
+      <region>Vouvray</region>
+      <vintage>2010</vintage>
+      <world>Old</world>
+      <price>8</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>btg</category>
+      <winery>Nine Walks</winery>
+      <country>New Zealand</country>
+      <region>Marlborough</region>
+      <varietals>Sauvignon Blanc</varietals>
+      <vintage>2011</vintage>
+      <world>New</world>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <winery>Nine Walks</winery>
+      <country>New Zealand</country>
+      <region>Marlborough</region>
+      <varietals>Sauvignon Blanc</varietals>
+      <vintage>2011</vintage>
+      <world>New</world>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>btg</category>
+      <country>USA</country>
+      <winery>Vista Point</winery>
+      <varietals>Pinot Grigio</varietals>
+      <world>New</world>
+      <vintage>2011</vintage>
+      <region>California</region>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <country>USA</country>
+      <winery>Vista Point</winery>
+      <varietals>Pinot Grigio</varietals>
+      <world>New</world>
+      <vintage>2011</vintage>
+      <region>California</region>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>btg</category>
+      <country>Spain</country>
+      <winery>Estacada</winery>
+      <bottling>Vinanza Joven</bottling>
+      <region>Castilla La Mancha</region>
+      <varietals>Airén</varietals>
+      <world>Old</world>
+      <vintage>2010</vintage>
+      <price>6</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <country>Spain</country>
+      <winery>Estacada</winery>
+      <bottling>Vinanza Joven</bottling>
+      <region>Castilla La Mancha</region>
+      <varietals>Airén</varietals>
+      <world>Old</world>
+      <vintage>2010</vintage>
+      <price>24</price>
+  </wine>
+    <wine>
+      <color>white</color>
+      <country>Italy</country>
+      <category>btg</category>
+      <winery>Pravis</winery>
+      <vintage>2011</vintage>
+      <region>Trento</region>
+      <varietals>Pinot Grigio</varietals>
+      <world>New</world>
+      <price>9</price>
+  </wine>
+    <wine>
+      <color>white</color>
+      <country>Italy</country>
+      <category>bottle</category>
+      <winery>Pravis</winery>
+      <vintage>2011</vintage>
+      <region>Trento</region>
+      <varietals>Pinot Grigio</varietals>
+      <world>New</world>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <country>USA</country>
+      <category>btg</category>
+      <bottling>'Almost Dry'</bottling>
+      <varietals>Riesling</varietals>
+      <world>New</world>
+      <region>Willamette, OR</region>
+      <vintage>2010</vintage>
+      <winery>Montinore Estate</winery>
+      <price>9</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <country>USA</country>
+      <category>bottle</category>
+      <bottling>'Almost Dry'</bottling>
+      <varietals>Riesling</varietals>
+      <world>New</world>
+      <region>Willamette, OR</region>
+      <vintage>2010</vintage>
+      <winery>Montinore Estate</winery>
+      <price>34</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <country>Spain</country>
+      <category>btg</category>
+      <region>Rioja</region>
+      <winery>Martinez Lacuesta</winery>
+      <varietals>Viura</varietals>
+      <world>Old</world>
+      <vintage>2011</vintage>
+      <price>8</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <country>Spain</country>
+      <category>bottle</category>
+      <region>Rioja</region>
+      <winery>Martinez Lacuesta</winery>
+      <varietals>Viura</varietals>
+      <world>Old</world>
+      <vintage>2011</vintage>
+      <price>32</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>btg</category>
+      <country>France</country>
+      <winery>Chateau Routas</winery>
+      <bottling>Rosé</bottling>
+      <world>New</world>
+      <vintage>2011</vintage>
+      <varietals>Grenache, Syrah</varietals>
+      <price>9</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <country>France</country>
+      <winery>Chateau Routas</winery>
+      <bottling>Rosé</bottling>
+      <world>New</world>
+      <vintage>2011</vintage>
+      <varietals>Grenache, Syrah</varietals>
+      <price>34</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>btg</category>
+      <winery>Cielo</winery>
+      <varietals>Merlot</varietals>
+      <country>Italy</country>
+      <region>delle Venezie IGT</region>
+      <vintage>2011</vintage>
+      <world>New</world>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <winery>Cielo</winery>
+      <varietals>Merlot</varietals>
+      <country>Italy</country>
+      <region>delle Venezie IGT</region>
+      <vintage>2011</vintage>
+      <world>New</world>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>btg</category>
+      <winery>Domaine Girard</winery>
+      <country>France</country>
+      <region>Vin de Pays d'Oc</region>
+      <vintage>2011</vintage>
+      <world>New</world>
+      <varietals>Pinot Noir</varietals>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <winery>Domaine Girard</winery>
+      <country>France</country>
+      <region>Vin de Pays d'Oc</region>
+      <vintage>2010</vintage>
+      <world>New</world>
+      <varietals>Pinot Noir</varietals>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>btg</category>
+      <country>USA</country>
+      <winery>Kenwood</winery>
+      <region>California</region>
+      <varietals>Cabernet Sauvignon</varietals>
+      <vintage>2009</vintage>
+      <world>New</world>
+      <bottling>'Yalupa'</bottling>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <country>USA</country>
+      <region>California</region>
+      <winery>Kenwood</winery>
+      <varietals>Cabernet Sauvignon</varietals>
+      <vintage>2009</vintage>
+      <world>New</world>
+      <bottling>'Yalupa'</bottling>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <winery>Bielsa</winery>
+      <category>btg</category>
+      <bottling>Viñas Viejas</bottling>
+      <world>New</world>
+      <varietals>Garnacha</varietals>
+      <vintage>2010</vintage>
+      <region>Campo de Borja</region>
+      <country>Spain</country>
+      <price>9</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <winery>Bielsa</winery>
+      <bottling>Viñas Viejas</bottling>
+      <category>bottle</category>
+      <world>New</world>
+      <varietals>Garnacha</varietals>
+      <vintage>2010</vintage>
+      <region>Campo de Borja</region>
+      <country>Spain</country>
+      <price>34</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>btg</category>
+      <winery>Healdsburg Ranches</winery>
+      <world>New</world>
+      <vintage>2009</vintage>
+      <country>USA</country>
+      <region>North Coast, CA</region>
+      <varietals>Zinfandel</varietals>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <winery>Healdsburg Ranches</winery>
+      <world>New</world>
+      <vintage>2009</vintage>
+      <country>USA</country>
+      <region>North Coast, CA</region>
+      <varietals>Zinfandel</varietals>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>btg</category>
+      <world>Old</world>
+      <winery>St. Leger</winery>
+      <country>France</country>
+      <vintage>2010</vintage>
+      <bottling>Vin de Pays de Comté de Grignan</bottling>
+      <region>Rhone</region>
+      <varietals>Grenache, Syrah, Mourvédre</varietals>
+      <price>8</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>St. Leger</winery>
+      <vintage>2010</vintage>
+      <country>France</country>
+      <bottling>Vin de Pays de Comté de Grignan</bottling>
+      <region>Rhone</region>
+      <varietals>Grenache, Syrah, Mourvédre</varietals>
+      <price>32</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <world>New</world>
+      <category>btg</category>
+      <winery>Charles Smith</winery>
+      <bottling>'The Velvet Devil'</bottling>
+      <varietals>Merlot</varietals>
+      <vintage>2010</vintage>
+      <country>USA</country>
+      <region>Columbia Valley, WA</region>
+      <price>10</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <world>New</world>
+      <category>bottle</category>
+      <winery>Charles Smith</winery>
+      <bottling>'The Velvet Devil'</bottling>
+      <varietals>Merlot</varietals>
+      <vintage>2010</vintage>
+      <country>USA</country>
+      <region>Columbia Valley, WA</region>
+      <price>35</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <winery>Foxglove</winery>
+      <world>New</world>
+      <category>btg</category>
+      <country>USA</country>
+      <vintage>2010</vintage>
+      <varietals>Cabernet Sauvignon</varietals>
+      <region>Paso Robles, CA</region>
+      <price>12</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <winery>Foxglove</winery>
+      <world>New</world>
+      <category>bottle</category>
+      <country>USA</country>
+      <vintage>2010</vintage>
+      <varietals>Cabernet Sauvignon</varietals>
+      <region>Paso Robles, CA</region>
+      <price>42</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>btg</category>
+      <world>Old</world>
+      <winery>Graham's</winery>
+      <region>Port</region>
+      <country>Portugal</country>
+      <bottling>LBV</bottling>
+      <vintage>2007</vintage>
+      <price>7</price>
+      <world>Old</world>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>btg</category>
+      <world>Old</world>
+      <winery>Broadbent</winery>
+      <country>Portugal</country>
+      <region>Madiera</region>
+      <bottling>5 Year</bottling>
+      <vintage>NV</vintage>
+      <world>Old</world>
+      <price>7</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <winery>Domaine Chandon</winery>
+      <bottling>Reserve Brut (sparkling)</bottling>
+      <world>New</world>
+      <vintage>NV</vintage>
+      <country>USA</country>
+      <region>California</region>
+      <varietals>Chardonnay, Pinot Noir, Pinot Meunier</varietals>
+      <price>38</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <winery>Casabianca</winery>
+      <bottling>Rosato (sparkling)</bottling>
+      <varietals>Pinot Nero (Noir)</varietals>
+      <vintage>NV</vintage>
+      <country>Italy</country>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>Gaston Chiquet</winery>
+      <bottling>Blanc de Blancs Grand Cru</bottling>
+      <vintage>NV</vintage>
+      <varietals>Chardonnay</varietals>
+      <region>Champagne (Aÿ)</region>
+      <country>France</country>
+      <price>68</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <world>New</world>
+      <category>bottle</category>
+      <winery>Barboursville</winery>
+      <region>Virginia</region>
+      <country>USA</country>
+      <varietals>Chardonnay</varietals>
+      <vintage>2011</vintage>
+      <price>32</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <world>New</world>
+      <category>bottle</category>
+      <winery>Pollak</winery>
+      <varietals>Chardonnay</varietals>
+      <country>USA</country>
+      <vintage>2009</vintage>
+      <region>Virginia</region>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <world>New</world>
+      <category>bottle</category>
+      <winery>Del Fosse</winery>
+      <bottling>Reserve D'Oraine</bottling>
+      <varietals>Chardonnay blend</varietals>
+      <country>USA</country>
+      <region>Virginia</region>
+      <vintage>2007</vintage>
+      <price>39</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <world>New</world>
+      <category>bottle</category>
+      <winery>Longoria</winery>
+      <varietals>Pinot Grigio</varietals>
+      <vintage>2010</vintage>
+      <bottling>375ml (half-bottle)</bottling>
+      <country>USA</country>
+      <region>California</region>
+      <price>18</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <world>New</world>
+      <category>bottle</category>
+      <winery>Conundrum</winery>
+      <varietals>Proprietary Blend</varietals>
+      <vintage>2010</vintage>
+      <country>USA</country>
+      <region>California</region>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>Louis Latour</winery>
+      <region>Bourgogne</region>
+      <bottling>Beaune</bottling>
+      <country>France</country>
+      <varietals>Chardonnay</varietals>
+      <vintage>2006</vintage>
+      <price>39</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <world>Old</world>
+      <category>bottle</category>
+      <winery>Albert Bichot</winery>
+      <region>Bourgogne</region>
+      <bottling>Macon-Villages</bottling>
+      <varietals>Chardonnay</varietals>
+      <vintage>2008</vintage>
+      <country>France</country>
+      <price>39</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>Chateau de Sancerre</winery>
+      <vintage>2008</vintage>
+      <region>Sancerre</region>
+      <country>France</country>
+      <varietals>Sauvignon Blanc</varietals>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>The Furst</winery>
+      <varietals>Pinot Blanc</varietals>
+      <country>France</country>
+      <region>Alsace</region>
+      <vintage>2009</vintage>
+      <price>32</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Musaragno</winery>
+      <country>Italy</country>
+      <region>Veneto</region>
+      <vintage>2010</vintage>
+      <varietals>Pinot Grigio</varietals>
+      <price>31</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <country>Italy</country>
+      <region>Soave</region>
+      <varietals>Garganega, Trebbiano</varietals>
+      <vintage>2008</vintage>
+      <winery>La Cappuccina</winery>
+      <price>35</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Bastianich</winery>
+      <country>Italy</country>
+      <region>Friuli</region>
+      <bottling>'Adriatico'</bottling>
+      <varietals>Friulano</varietals>
+      <vintage>2009</vintage>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <country>Italy</country>
+      <region>Gavi</region>
+      <winery>Ru</winery>
+      <varietals>Cortese</varietals>
+      <bottling>di Gavi</bottling>
+      <vintage>2009</vintage>
+      <price>35</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>Pallio di San Floriano</winery>
+      <varietals>verdicchio</varietals>
+      <vintage>2009</vintage>
+      <country>Italy</country>
+      <region>San Floriano</region>
+      <price>28</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Estacada</winery>
+      <bottling>'Viñanza Joven'</bottling>
+      <country>Spain</country>
+      <vintage>2010</vintage>
+      <region>Cuenca</region>
+      <varietals>Airén</varietals>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Martin Codax</winery>
+      <varietals>Albariño</varietals>
+      <country>Spain</country>
+      <region>Rías Baixas</region>
+      <vintage>2010</vintage>
+      <price>33</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Botani</winery>
+      <varietals>Moscatel</varietals>
+      <bottling>Seco</bottling>
+      <country>Spain</country>
+      <vintage>2008</vintage>
+      <price>37</price>
+  </wine>
+  <wine>
+      <color>white</color>
+      <category>bottle</category>
+      <world>New</world>
+      <varietals>Sauvignon Blanc</varietals>
+      <winery>Nine Walks</winery>
+      <vintage>2011</vintage>
+      <region>Marlborough</region>
+      <country>New Zealand</country>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <varietals>Merlot</varietals>
+      <country>USA</country>
+      <region>Napa, CA</region>
+      <vintage>2009</vintage>
+      <winery>Flora Springs</winery>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <varietals>Cabernet Sauvignon</varietals>
+      <country>USA</country>
+      <bottling>'Yalupa'</bottling>
+      <winery>Kenwood</winery>
+      <vintage>2009</vintage>
+      <region>Sonoma, CA</region>
+      <price>27</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <varietals>Cabernet Franc</varietals>
+      <country>USA</country>
+      <region>Virginia</region>
+      <winery>Barboursville</winery>
+      <bottling>Reserve</bottling>
+      <vintage>2009</vintage>
+      <price>48</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Dunham Cellars</winery>
+      <bottling>'Trutina'</bottling>
+      <country>USA</country>
+      <varietals>Cabernet Blend</varietals>
+      <vintage>2007</vintage>
+      <region>Walla Walla, WA</region>
+      <price>58</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Chalone Vineyard</winery>
+      <varietals>Syrah</varietals>
+      <vintage>2004</vintage>
+      <country>USA</country>
+      <region>Monterey, CA</region>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>Evening Land</winery>
+      <vintage>2010</vintage>
+      <region>Bourgogne</region>
+      <varietals>Pinot Noir</varietals>
+      <country>France</country>
+      <price>58</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <country>France</country>
+      <region>Côtes du Rhone</region>
+      <varietals>Grenache blend</varietals>
+      <winery>J. Vidal-Fleury</winery>
+      <vintage>2007</vintage>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <country>France</country>
+      <region>Bordeaux</region>
+      <bottling>Medoc</bottling>
+      <winery>Chateau Greysac</winery>
+      <vintage>2005</vintage>
+      <price>39</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <region>Umbria</region>
+      <varietals>Montepulciano, Sangiovese</varietals>
+      <winery>Barbi</winery>
+      <vintage>2010</vintage>
+      <country>Italy</country>
+      <price>20</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <region>Dolcetto d'Alba DOCG</region>
+      <varietals>Dolcetto</varietals>
+      <winery>Seghesio</winery>
+      <bottling>'Pajana'</bottling>
+      <vintage>2009</vintage>
+      <country>Italy</country>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>Lodali</winery>
+      <varietals>Barbera</varietals>
+      <country>Italy</country>
+      <region>Barbera d'Alba DOCG</region>
+      <vintage>2009</vintage>
+      <price>35</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Alcesti</winery>
+      <vintage>2008</vintage>
+      <country>Italy</country>
+      <region>Sicily</region>
+      <varietals>Nero d'Avola</varietals>
+      <price>32</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <winery>Lorenzo Begali</winery>
+      <region>Valpolicella</region>
+      <bottling>Ripasso</bottling>
+      <vintage>2009</vintage>
+      <varietals>Corvina, Rondinella, Molinara</varietals>
+      <price>42</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <country>Spain</country>
+      <winery>Volteo</winery>
+      <varietals>Tempranillo</varietals>
+      <vintage>2010</vintage>
+      <price>30</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <country>Spain</country>
+      <region>Rioja</region>
+      <varietals>Tempranillo</varietals>
+      <winery>Gran Familia</winery>
+      <vintage>2008</vintage>
+      <price>34</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>Old</world>
+      <region>Navarra</region>
+      <bottling>Crianza</bottling>
+      <country>Spain</country>
+      <vintage>2007</vintage>
+      <winery>Marqués de la Real Defensa</winery>
+      <varietals>Tempranillo</varietals>
+      <price>34</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Las Rocas</winery>
+      <country>Spain</country>
+      <varietals>Garnacha</varietals>
+      <vintage>2008</vintage>
+      <price>35</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Erben</winery>
+      <country>Germany</country>
+      <varietals>Merlot, Spätburgunder (Pinot Noir)</varietals>
+      <vintage>2009</vintage>
+      <price>28</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Altos Las Hormigas</winery>
+      <vintage>2011</vintage>
+      <varietals>Malbec</varietals>
+      <country>Argentina</country>
+      <region>Mendoza</region>
+      <price>36</price>
+  </wine>
+  <wine>
+      <color>red</color>
+      <category>bottle</category>
+      <world>New</world>
+      <winery>Henry Lagarde</winery>
+      <varietals>Malbec</varietals>
+      <bottling>Single Vineyard</bottling>
+      <vintage>2009</vintage>
+      <country>Argentina</country>
+      <region>Mendoza</region>
+      <price>54</price>
+  </wine>
+  </wines>
+</bar>

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e60711eb-7854-4fac-b2df-e6cd0e1ff7a4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comfort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Comfort.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/BarActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/BarActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/BeerActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/BeerActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/BeerParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/BeerParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ClarendonArrayAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ClarendonArrayAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/FoodActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/FoodActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ForeignWhiskey.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ForeignWhiskey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/Liquor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/Liquor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/LiquorParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/LiquorParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/MenuParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/MenuParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/NotesActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/OtherAmericanWhiskeyActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/OtherAmericanWhiskeyActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$attr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$attr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$color.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$raw.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$raw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/R.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/ShowListActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/WhiskeyActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/WhiskeyActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/WineActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/WineActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/WineParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/classes/com/AppliedArgonautics/comfort/WineParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gen/com/facebook/android/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/BarActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/BarActivity.java" afterDir="false" />
+    </list>
+    <ignored path="Comfort.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/bin/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <ui_properties converted="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Comfort" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/BarActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/BarActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/BarActivityTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Comfort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Comfort Android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Comfort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Comfort Android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Comfort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Comfort Android" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="comfort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.AppliedArgonautics.comfort" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.All in Comfort">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration name="All in Comfort" type="AndroidJUnit" factoryName="Android JUnit" temporary="true">
+      <module name="Comfort" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="false" name="BarActivity" type="AndroidRunConfigurationType" factoryName="Android Application" temporary="true">
+      <module name="Comfort" />
+      <option name="ACTIVITY_CLASS" value="com.AppliedArgonautics.comfort.MainActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android JUnit.All in Comfort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.All in Comfort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60711eb-7854-4fac-b2df-e6cd0e1ff7a4" name="Default" comment="" />
+      <created>1358017428730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1358017428730</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_Comfort - 2020.10.05 at 14h 08m 08s.xml">
+      <configuration name="All in Comfort" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_Comfort - 2020.10.05 at 14h 18m 45s.xml">
+      <configuration name="All in Comfort" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_Comfort - 2020.10.05 at 14h 20m 41s.xml">
+      <configuration name="All in Comfort" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="All_in_Comfort - 2020.10.05 at 14h 21m 53s.xml">
+      <configuration name="All in Comfort" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1020" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" sideWeight="0.21768707" side_tool="true" weight="0.24958813" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.26360545" weight="0.120064035" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.21768707" side_tool="true" visible="true" weight="0.24919957" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Captures" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Resources Explorer" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" visible="true" weight="0.3295583" />
+      <window_info active="true" anchor="bottom" id="Android" order="3" visible="true" weight="0.7363946" />
+      <window_info anchor="bottom" id="Changes" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3295583" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Android Profiler" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="JetGradle" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Device File Explorer" order="8" side_tool="true" />
+      <window_info anchor="right" id="Assistant" order="9" visible="true" weight="0.15848452" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="ALL" type="java-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/BarActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/AppliedArgonautics/comfort/BarActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 17 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|Comfort</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

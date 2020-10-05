@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    tools:context=".FoodActivity" >
+        <android.gesture.GestureOverlayView
+        android:id="@+id/gOverlay"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"  
+        android:uncertainGestureColor="#00000000"
+        android:gestureColor="#00000000">
+       
+    </android.gesture.GestureOverlayView>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button2"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="28dp"
+        android:background="@color/yellow"
+        android:onClick="goToList"
+        android:textStyle="bold"
+        android:text="@string/lunch" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="102dp"
+        android:layout_marginRight="24dp"
+        android:background="@color/yellow"
+        android:textStyle="bold"
+        android:onClick="goToList"
+        android:text="@string/dinner" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:contentDescription="@string/comfort_logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="34dp"
+        android:src="@drawable/comfort_small" />
+
+</RelativeLayout>

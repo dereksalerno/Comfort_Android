@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/yellow"
+    tools:context=".BeerActivity" >
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="74dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToList"
+        android:text="@string/import_beer"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_above="@+id/button3"
+        android:layout_marginBottom="74dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToList"
+        android:text="@string/domestic_beer"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_above="@+id/button1"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_marginBottom="74dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToList"
+        android:text="@string/american_microbrew"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="300dip"
+        android:layout_height="50dip"
+        android:layout_above="@+id/button2"
+        android:layout_alignLeft="@+id/button2"
+        android:layout_marginBottom="74dip"
+        android:background="@drawable/bordered_button"
+        android:onClick="goToList"
+        android:text="@string/draft_beer"
+        android:textStyle="bold" />
+
+</RelativeLayout>
