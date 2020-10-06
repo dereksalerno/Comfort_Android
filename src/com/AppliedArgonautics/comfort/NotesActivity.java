@@ -27,6 +27,7 @@ import android.widget.RatingBar;
 import android.widget.RatingBar.OnRatingBarChangeListener;
 import android.widget.TextView;
 
+
 public class NotesActivity extends Activity implements OnRatingBarChangeListener {
 	//final Intent goToBar = new Intent(NotesActivity.this, BarActivity.class);
 	Float mRating;
@@ -41,6 +42,7 @@ public class NotesActivity extends Activity implements OnRatingBarChangeListener
 		TextView tv = (TextView)findViewById(R.id.textView1);
 		tv.setTypeface(myTypeface);
 		Intent i = getIntent();
+		//get the sauce
 		MenuItem itemRated = (MenuItem)i.getSerializableExtra("RatedItem");
 		final String liqName = itemRated.toString();
 //		final String liqName = i.getExtras().getString("Item");
@@ -61,11 +63,12 @@ public class NotesActivity extends Activity implements OnRatingBarChangeListener
 		getMenuInflater().inflate(R.menu.activity_red_bottle, menu);
 		return true;
 	}
+	// Get the item info from the Intent and write the tasting notes to a SQLite DB
 	public void addToDB(View v){
 		Intent i = getIntent();
 		MenuItem itemRated = (MenuItem)i.getSerializableExtra("RatedItem");
 		final String liqName = itemRated.toString();
-		
+		// Let's make sure there isn't an existing entry!!
 		boolean alreadyRated = existsAlreadyInDatabase(liqName);
 		//Check to see if the item has already been rated and exists in the database
 		if (!alreadyRated){
@@ -144,7 +147,7 @@ public class NotesActivity extends Activity implements OnRatingBarChangeListener
 			return tmpB;
 	}
 	
-
+	//If the entry exists in the SQLite DB, let's go ahead and make sure the user wants to overwrite it
 	public void showWarningDialog(){
 		Builder builder = new AlertDialog.Builder(this);  
 		builder.setTitle("Are you sure?");
@@ -198,7 +201,7 @@ public class NotesActivity extends Activity implements OnRatingBarChangeListener
 		builder.show();
 	}
 
-	
+	// Put some stars next to it
 	@Override
 	public void onRatingChanged(RatingBar ratingBar, float rating,
 			boolean fromUser) {

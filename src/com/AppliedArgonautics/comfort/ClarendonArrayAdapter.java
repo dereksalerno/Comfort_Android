@@ -24,7 +24,7 @@ public class ClarendonArrayAdapter<MenuItem> extends ArrayAdapter<MenuItem> {
 		TextView item;
 		RatingBar rb;
 	}
-	
+	//Instantiate new list with custom font
 	public ClarendonArrayAdapter(Context context, int textViewResourceId, ArrayList<MenuItem> items) {
 		super(context, textViewResourceId, items);
 		this.items = items;
@@ -37,16 +37,9 @@ public class ClarendonArrayAdapter<MenuItem> extends ArrayAdapter<MenuItem> {
 	View view = convertView;
 	com.AppliedArgonautics.comfort.MenuItem menuItem = 
 			(com.AppliedArgonautics.comfort.MenuItem)items.get(position);
-//	if (menuItem instanceof Liquor){
-//		menuItem = (Liquor)menuItem;
-//	}
-//	if (menuItem instanceof Beer){
-//		menuItem = (Beer)menuItem;
-//	}
-//	if (menuItem instanceof Wine){
-//		menuItem = (Wine)menuItem;
-//	}
-	
+
+
+	// Check for user-generated ratings, and load custom font
 	if (view == null){
 		LayoutInflater vi = (LayoutInflater)this.getContext().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 		view = vi.inflate(R.layout.copy_of_simple_list_item_1, null);
@@ -58,15 +51,8 @@ public class ClarendonArrayAdapter<MenuItem> extends ArrayAdapter<MenuItem> {
 		viewHolder.rb = (RatingBar)view.findViewById(R.id.listRatingBar);
 		//just added these two
 		String listName = menuItem.toString();
-//		if (menuItem instanceof Liquor){
-//			menuItem = (com.AppliedArgonautics.comfort.Liquor)menuItem;
-//		}
-//		if (menuItem instanceof Beer){
-//			menuItem = (com.AppliedArgonautics.comfort.Beer)menuItem;
-//		}
-//		if (menuItem instanceof Wine){
-//			menuItem = (com.AppliedArgonautics.comfort.Wine)menuItem;
-//		}
+
+
 		viewHolder.item.setText(listName);
 //		String notes = com.AppliedArgonautics.comfort.LiquorParser.getNotes(menuItem.toString());
 //		menuItem.setNotes(notes);

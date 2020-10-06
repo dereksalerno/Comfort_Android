@@ -39,6 +39,7 @@ public class BeerActivity extends Activity {
 		getMenuInflater().inflate(R.menu.activity_beer, menu);
 		return true;
 	}
+	//Load buttons from view and label accordingly
 	public void goToList(View v){
 		Button b = (Button)v;
 		Intent i = new Intent(this, ShowListActivity.class);

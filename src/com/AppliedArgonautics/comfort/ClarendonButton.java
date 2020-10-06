@@ -4,6 +4,7 @@ import android.content.Context;
 import android.graphics.Typeface;
 import android.widget.Button;
 
+//build a new button with Clarendon font
 public class ClarendonButton extends Button {
 
 	public ClarendonButton(Context context) {
