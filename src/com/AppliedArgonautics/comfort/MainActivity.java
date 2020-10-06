@@ -60,7 +60,7 @@ public class MainActivity extends Activity implements OnGesturePerformedListener
 		Intent i = new Intent(this, BarActivity.class);
 		startActivity(i);
 	}
-
+	//Let user swipe to go to food or drink menu
 	 public void onGesturePerformed(GestureOverlayView overlay, Gesture gesture) {
 	        ArrayList<Prediction> predictions = gLibrary.recognize(gesture);
 	        

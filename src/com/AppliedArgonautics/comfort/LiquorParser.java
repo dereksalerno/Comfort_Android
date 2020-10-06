@@ -208,6 +208,7 @@ public class LiquorParser extends DefaultHandler {
     }
 
     @Override
+	//Make Liquor objects from XML
 
     public void endElement(String s, String s1, String element) throws SAXException {
 

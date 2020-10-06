@@ -16,7 +16,7 @@ import org.xml.sax.helpers.DefaultHandler;
 
 import com.AppliedArgonautics.comfort.Beer;
 
-
+//For an array list from values pulled from the xml parser
 public class BeerParser extends DefaultHandler {
 
     private ArrayList<Beer> BeerL;
@@ -31,20 +31,16 @@ public class BeerParser extends DefaultHandler {
     	return tmpItem;
     }
 
-    
+    //a couple dummy objects to temprarily store values
     InputStream barXmlInputStream;
 
     String tmpValue;
-
    
     Beer beerTmp;
    
 
-    //SimpleDateFormat sdf= new SimpleDateFormat("yy-MM-dd");
-
-    public BeerParser(InputStream barXmlInputStream) {
-
-        
+    //
+    public BeerParser(InputStream barXmlInputStream) {  
     	
     	this.barXmlInputStream = barXmlInputStream;
 
@@ -55,10 +51,9 @@ public class BeerParser extends DefaultHandler {
         printDatas();
 
     }
-
+    //Load the xml
     private void parseDocument() {
 
-        // parse
 
         SAXParserFactory factory = SAXParserFactory.newInstance();
 
@@ -86,7 +81,7 @@ public class BeerParser extends DefaultHandler {
         }
 
     }
-
+/*
     private void printDatas() {
 
        // System.out.println(bookL.size());
@@ -99,7 +94,7 @@ public class BeerParser extends DefaultHandler {
         
 
     }
-
+*/
     @Override
 
     public void startElement(String s, String s1, String elementName, Attributes attributes) throws SAXException {
@@ -114,23 +109,17 @@ public class BeerParser extends DefaultHandler {
 
         if (elementName.equalsIgnoreCase("beer")) {
 
-        	
         	beerTmp = new Beer();
-            
-            //pastTheLiquor = true;
-
-      
 
         }
 
     }
 
     @Override
-
+    //Load all the info into temporary Beer Objects
     public void endElement(String s, String s1, String element) throws SAXException {
 
-    	
-        
+
     	if (element.equals("beer")) {
 
 				BeerL.add(beerTmp);

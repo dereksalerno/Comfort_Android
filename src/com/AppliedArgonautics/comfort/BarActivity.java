@@ -65,7 +65,7 @@ public boolean onCreateOptionsMenu(Menu menu) {
 	 * 		  the title of the button 
 	 * @see   ShowListActivity.class to see how Intents are used
 	 */
-	
+	//load info for the Intents on click of Buttons
 	public void goToLiquorList(View v){
 		Button b = (Button)v;
 		Intent i = new Intent(this, ShowListActivity.class);
@@ -74,6 +74,7 @@ public boolean onCreateOptionsMenu(Menu menu) {
 		i.putExtra("Category", "Liquor");
 		startActivity(i);
 	}
+
 	public void goToBeerList(View v){
 		Intent i = new Intent(this, BeerActivity.class);
 		startActivity(i);
@@ -97,11 +98,12 @@ public boolean onCreateOptionsMenu(Menu menu) {
 		Intent i = new Intent(this, WineActivity.class);
 		startActivity(i);
 	}
-	
+
 	public void goToWhiskey(View v){
 		Intent i = new Intent(this, WhiskeyActivity.class);
 		startActivity(i);
 	}
+	//Set up swipe to go back
 	public void onGesturePerformed(GestureOverlayView overlay, Gesture gesture) {
         ArrayList<Prediction> predictions = gLibrary.recognize(gesture);
         
